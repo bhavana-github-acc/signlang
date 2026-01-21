@@ -1,8 +1,9 @@
 <<<<<<< HEAD
 #testing another code
 =======
+#testing third
 #another file
-
+#testing
 print("hello")
 print("second testing commit push")
 print("third commit push")
